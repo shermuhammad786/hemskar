@@ -1,0 +1,240 @@
+[
+  {
+    "type": "multiple-choice",
+    "category": "HTML Attributes",
+    "question": "Which attribute specifies a unique identifier for an HTML element?",
+    "correct_answer": "id",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "class",
+      "name",
+      "key"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Tables",
+    "question": "Which element defines a header cell in an HTML table?",
+    "correct_answer": "<th>",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "<td>",
+      "<tr>",
+      "<thead>"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Forms",
+    "question": "Which type of input tag used to hide the text from user?",
+    "correct_answer": "password",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "file",
+      "text",
+      "number"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Attributes",
+    "question": "Which attribute specifies the language of the HTML document?",
+    "correct_answer": "lang",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "xml:lang",
+      "charset",
+      "locale"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Forms",
+    "question": "What does the 'action' attribute in a form element specify?",
+    "correct_answer": "The URL where the form data is sent.",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "The method of form submission.",
+      "The validation rules for the form.",
+      "The data encoding type for the form."
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Attributes",
+    "question": "Which attribute in an anchor tag user for go the new tab?",
+    "correct_answer": "target",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "src",
+      "href",
+      "rel"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Links",
+    "question": "Which attribute in an anchor tag specifies the URL of the linked document?",
+    "correct_answer": "href",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "src",
+      "target",
+      "rel"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Lists",
+    "question": "Is <ol> tag used for number list?",
+    "correct_answer": "True",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Semantics",
+    "question": "Which HTML5 element represents emphasized text that is stressed?",
+    "correct_answer": "<em>",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "<strong>",
+      "<i>",
+      "<mark>"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Attributes",
+    "question": "What does the src attribute do in image tag?",
+    "correct_answer": "Specifies the URL of the image to display.",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "Specifies the alternative text for the image.",
+      "Defines the height and width of the image.",
+      "Specifies the title of the image."
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Tables",
+    "question": "Which tag is used to group the footer content in a table?",
+    "correct_answer": "<tfoot>",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "<tbody>",
+      "<thead>",
+      "<tgroup>"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Metadata",
+    "question": "What is the purpose of the <meta> tag in HTML?",
+    "correct_answer": "Provides metadata about the HTML document.",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "Displays the title of the document.",
+      "Links an external JavaScript file.",
+      "Specifies the document's background color."
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Links",
+    "question": "Which of the following is the correct syntax to create an email link in HTML?",
+    "correct_answer": "<a href='mailto:example@example.com'>Email Us</a>",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "<a href='email:example@example.com'>Email Us</a>",
+      "<a href='send:example@example.com'>Email Us</a>",
+      "<a mailto='example@example.com'>Email Us</a>"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Frames",
+    "question": "Which tag is used to define an inline frame in HTML?",
+    "correct_answer": "<iframe>",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "<frame>",
+      "<inline>",
+      "<embed>"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Links",
+    "question": "What is the default value of the target attribute in an <a> tag?",
+    "correct_answer": "_self",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "_blank",
+      "_parent",
+      "_top"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Attributes",
+    "question": "Which attribute is used to specify a unique identifier for an HTML element?",
+    "correct_answer": "id",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "class",
+      "name",
+      "tag"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Formatting",
+    "question": "Which HTML element is used to define important text?",
+    "correct_answer": "<strong>",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "<b>",
+      "<em>",
+      "<i>"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Basics",
+    "question": "What is the correct way to comment in HTML?",
+    "correct_answer": "<!-- This is a comment -->",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "// This is a comment",
+      "/* This is a comment */",
+      "# This is a comment"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Tables",
+    "question": "Which HTML tag is used to define a table row?",
+    "correct_answer": "<tr>",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "<td>",
+      "<th>",
+      "<row>"
+    ]
+  },
+  {
+    "type": "multiple-choice",
+    "category": "HTML Forms",
+    "question": "Which input type is used to create a slider control in HTML?",
+    "correct_answer": "range",
+    "difficulty": "hard",
+    "incorrect_answers": [
+      "slider",
+      "control",
+      "number"
+    ]
+  }
+]

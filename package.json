@@ -1,0 +1,50 @@
+{
+  "name": "free-nextjs-admin-dashboard",
+  "version": "1.3.5",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.7.1",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@react-pdf-viewer/core": "^3.12.0",
+    "@reduxjs/toolkit": "^2.5.0",
+    "@tanstack/react-query": "^5.62.11",
+    "@tanstack/react-query-devtools": "^5.62.11",
+    "@types/react-redux": "^7.1.34",
+    "antd": "^5.22.2",
+    "apexcharts": "^4.3.0",
+    "axios": "^1.7.7",
+    "cookies-next": "^4.3.0",
+    "flatpickr": "^4.6.13",
+    "jsvectormap": "^1.6.0",
+    "next": "^14.2.4",
+    "next-cloudinary": "^6.16.0",
+    "pdfjs-dist": "^3.4.120",
+    "react": "^18",
+    "react-apexcharts": "^1.4.1",
+    "react-dom": "^18",
+    "react-pdf": "^9.1.1",
+    "react-redux": "^9.2.0",
+    "redux-persist": "^6.0.0"
+  },
+  "devDependencies": {
+    "@tanstack/eslint-plugin-query": "^5.62.9",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/redux-persist": "^4.0.0",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8",
+    "prettier": "^3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.11",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

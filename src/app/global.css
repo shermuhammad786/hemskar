@@ -1,0 +1,29 @@
+.loadingButton {
+    margin-left: 10px;
+    font-size: 20px;
+    animation: spin 0.5s linear infinite;
+}
+
+
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.removeDefaultArrow {
+    /* for Firefox */
+    -moz-appearance: none;
+    /* for Safari, Chrome, Opera */
+    -webkit-appearance: none;
+}
+
+/* for IE10 */
+.removeDefaultArrow::-ms-expand {
+    display: none;
+}
